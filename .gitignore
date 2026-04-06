@@ -1,0 +1,23 @@
+# Build folders
+Debug/
+Release/
+
+# CCS generated files
+*.out
+*.obj
+*.d
+*.log
+*.map
+*.pp
+
+# Temporary files
+*.tmp
+*.bak
+
+# Eclipse metadata
+.metadata/
+.settings/
+
+# OS files
+Thumbs.db
+.DS_Store
