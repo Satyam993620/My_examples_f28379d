@@ -81,7 +81,7 @@ void main(void)
     GPIO_setDirectionMode(DEVICE_GPIO_PIN_LED1, GPIO_DIR_MODE_OUT);
 
     //
-    // Initialize PIE and clear PIE registers. Disables CPU interrupts.
+    // Initialize PIE and clear PIE registers. Disables CPU interruptgi
     //
     Interrupt_initModule();
 
